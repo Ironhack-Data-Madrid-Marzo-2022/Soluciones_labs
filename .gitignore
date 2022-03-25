@@ -1,6 +1,7 @@
 **/.DS_Store
 **/*.ipynb_checkpoints/
 **/__pycache__
+.gitignore
 .vscode
 semana_1
 semana_2
@@ -9,3 +10,6 @@ semana_4
 semana_5 /
 semana_6
 semana_7
+
+#Labs no utilizados
+semana_1/.lab-control-flow
